@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="handWritingHashMap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="handwriting.hashMap.war">
+      <element id="artifact" artifact-name="handWritingHashMap:war exploded" />
+    </root>
+  </artifact>
+</component>
